@@ -1,2 +1,2 @@
-# Template
-기본 템플릿을 제공하는 레파지토리 입니다.
+# MovieReview App입니다
+MVVM 패턴 및 RxSwift 공부용 앱입니다.
